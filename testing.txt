@@ -1,0 +1,3 @@
+[secret]
+username : pandu@tiket.com
+passwd : 123456789 
